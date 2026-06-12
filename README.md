@@ -125,6 +125,6 @@ stay intact, just realigned onto the directions of greatest variance.
 
 ## Authors
 
-Peer Pair 45 — *(add member names here)*
+Peer Pair 45 — *(Dushimimana Sadrine and Igihozo COlombe)*
 
-GitHub repo: `https://github.com/<your-username>/<your-repo>` *(replace)*
+
