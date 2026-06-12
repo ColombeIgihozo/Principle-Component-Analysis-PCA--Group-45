@@ -125,6 +125,6 @@ stay intact, just realigned onto the directions of greatest variance.
 
 ## Authors
 
-Peer Pair 45 — *(Dushimimana Sadrine and Igihozo COlombe)*
+Peer Pair 45 — *(Dushimimana Sandrine and Igihozo COlombe)*
 
 
